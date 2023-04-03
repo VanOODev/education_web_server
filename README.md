@@ -1,1 +1,1 @@
-# education_web_server
+# server
